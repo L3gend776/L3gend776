@@ -1,7 +1,4 @@
 # 💻 Guilherme Aires | Engenharia Informática @ IPT
-
-Um espaço dedicado ao meu percurso académico e projetos desenvolvidos no **Instituto Politécnico de Tomar**. Focado na transição entre o desenvolvimento de software e a robustez das infraestruturas de rede e cibersegurança.
-
 ---
 
 ### 🌐 Conecta-te Comigo
